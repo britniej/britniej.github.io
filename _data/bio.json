@@ -14,16 +14,9 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-     "interests": [
+     "interests":
     {
       "name": "Cooking",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "Hiking",
       "keywords": [
       ]
     },
@@ -31,7 +24,7 @@
       {
         "network": "github",
         "username": "britniej",
-        "url": "http://github.com/britniej"
+        "url": "http://britniej.github.io."
       }
     ]
   },
