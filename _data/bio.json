@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Britnie J Roach",
-    "label": "Student",
+    "label": "Shidler Undergraduate",
     "picture": "https://britniej.github.io/images/techfoliopicJPG.JPG",
     "email": "britniej@hawaii.edu",
     "phone": "",
@@ -29,7 +29,7 @@
       "studyType": "B.A.",
       "startDate": "2017-01-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.4",
       "courses": [
       ]
     }
