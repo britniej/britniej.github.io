@@ -14,6 +14,19 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
+     "interests": [
+    {
+      "name": "Cooking",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "keywords": [
+      ]
+    },
     "profiles": [
       {
         "network": "github",
