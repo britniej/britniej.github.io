@@ -14,20 +14,31 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-     "interests":
-    {
-      "name": "Cooking",
-      "keywords": [
-      ]
-    },
-    "profiles": [
+       "profiles": [
       {
         "network": "github",
-        "username": "britniej",
-        "url": "http://britniej.github.io."
+        "username": "mmaluhia",
+        "url": "https://britniej.github.io"
       }
     ]
   },
+      "interests": [
+    {
+      "name": "hiking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "cooking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "swimming",
+      "keywords": [
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
