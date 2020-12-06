@@ -8,7 +8,7 @@ labels:
   - Programming
 ---
 
-<img src="images/Roach_3_outline.png">
+<img src="https://raw.githubusercontent.com/britniej/britniej.github.io/master/images/Roach_3_outline.png">
 
 Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 As seen on the PDF outline, my cart will be on a seperate page that can be assessed at anytime after a user has logged in. Once someone has chosen items on any product page they will be brought to the cart page if validation is a success. The NAV BAR will have a cart link that can also be accessed at anytime. If a customer goes to the cart page, they can either adjust or confirm their quantities and checkout to reach the invoice page.
