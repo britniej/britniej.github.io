@@ -1,11 +1,11 @@
-#Map Animation/Realtime Bus Tracker Assignment
-##Directions: to modify a realtime bus tracker code taught to us in class with our own unique changes.
+# Map Animation/Realtime Bus Tracker Assignment
+## Directions: to modify a realtime bus tracker code taught to us in class with our own unique changes.
 
-###Description of the original project:
+### Description of the original project:
 -This project started as a map centered between Harvard and MIT. 
 -When the button was pushed the map would automatically start moving the marker to specified bus stops in their order on the way from MIT to Harvard to simulate the bus route. 
 
-###Description of my version changes:
+### Description of my version changes:
 -Map is centered on the capital of Oahu, HI, Honolulu.
 -The first marker is placed near my home in Makiki and the directions will have the endpoint of Kaimanas Beach.
 -The map style has been changed to satellite for a different aesthetic.
@@ -15,17 +15,17 @@
 
 ![Screenshot of the updated application](./screenshot.jpg)
 
-###How to run: 
+### How to run: 
 1. Fork repository
 2. Clone repo
 3. Drag the index.html file onto your browser.
 4. Click button in top left hand corner to begin directions from my Home in Makiki, HI to my favorite beach, Kaimanas
 
-###Future Improvements
+### Future Improvements
 -In the future I would love to play around with the code to make it more interesting/complex. 
 -Perhaps the fetching of real time data from DaBus API could be used to see the route in realtime.
 
-###License Information
+### License Information
 The MIT License (MIT)
 
 Copyright (c) 2015 Chris Kibble
