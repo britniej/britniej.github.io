@@ -1,0 +1,18 @@
+/* styling for map */
+body { margin: 0; padding: 0; }
+  #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+  .map-overlay{
+    position: absolute;
+    left: 0;
+    padding: 10px;
+  }
+
+/* styling for button */
+button {
+  color: darkcyan;
+  opacity: 80%;
+  border-width: .5em;
+  border-color: aquamarine;
+  font-size: 1.5em;
+}
+
