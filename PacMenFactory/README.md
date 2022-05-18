@@ -4,6 +4,7 @@
 
 ### Description:
 -This project uses several functions to create pacmen and start the game at the click of a button.
+
 -Once the game is started the pacmen will begin to move in random directions at a fixed velocity towards the window walls and with help of our functions will bounce around the window indefinitely.
 
 ![Screenshot of the updated application](./PacMenScreenshot.jpg)
