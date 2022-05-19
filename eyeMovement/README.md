@@ -7,7 +7,7 @@
 
 -I have changed the background color to a nude color in order to make it more realistic and have added another eye on the page so it was not only one.
 
-![Screenshot of the updated application](./PacMenScreenshot.jpg)
+![Screenshot of the updated application](./eyesScreenshot.jpg)
 
 ### How to run: 
 1. Fork repository
